@@ -29,7 +29,7 @@
     "vue-masonry": "^0.13.0",
     "vue-photo-grid": "^1.0.2",
     "vue-pswipe": "^0.15.3",
-    "vue-router": "^3.5.1",
+    "vue-router": "^3.5.2",
     "vue-runtime-helpers": "^1.1.2",
     "vue-stack-grid": "^1.2.2",
     "vuetify": "^2.5.8",
