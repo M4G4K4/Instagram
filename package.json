@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.24.0",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.17.2",
     "css-loader": "^5.2.5",
@@ -22,7 +22,7 @@
     "vue": "^2.6.14",
     "vue-colcade": "^1.2.4",
     "vue-cover-gallery": "^1.0.7",
-    "vue-easy-lightbox": "^0.16.1",
+    "vue-easy-lightbox": "^0.16.2",
     "vue-gallery": "^2.0.1",
     "vue-gallery-slideshow": "^1.5.2",
     "vue-infinite-scroll": "^2.0.2",
@@ -36,7 +36,7 @@
     "vuex": "^3.6.2"
   },
   "devDependencies": {
-    "@mdi/font": "^5.9.55",
+    "@mdi/font": "^6.4.95",
     "@vue/cli-plugin-babel": "^4.5.13",
     "@vue/cli-plugin-pwa": "^4.5.13",
     "@vue/cli-plugin-router": "^4.5.13",
@@ -44,7 +44,7 @@
     "@vue/cli-service": "^4.5.13",
     "sass": "^1.43.4",
     "sass-loader": "^9.0.3",
-    "vue-cli-plugin-vuetify": "^2.4.2",
+    "vue-cli-plugin-vuetify": "^2.4.3",
     "vue-template-compiler": "^2.6.14",
     "vuetify-loader": "^1.7.3"
   }
