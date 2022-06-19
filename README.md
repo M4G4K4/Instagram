@@ -1,5 +1,7 @@
 # Instagram
 
+Instagram web clone
+
 ## Project setup
 ```
 npm install
