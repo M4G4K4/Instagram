@@ -32,7 +32,7 @@
     "vue-router": "^4.0.16",
     "vue-runtime-helpers": "^1.1.2",
     "vue-stack-grid": "^1.2.2",
-    "vuetify": "^2.6.6",
+    "vuetify": "^2.6.7",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
