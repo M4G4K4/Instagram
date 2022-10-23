@@ -39,7 +39,7 @@
     "@mdi/font": "^7.0.96",
     "@vue/cli-plugin-babel": "^5.0.6",
     "@vue/cli-plugin-pwa": "^5.0.6",
-    "@vue/cli-plugin-router": "^5.0.6",
+    "@vue/cli-plugin-router": "^5.0.8",
     "@vue/cli-plugin-vuex": "^5.0.6",
     "@vue/cli-service": "^5.0.8",
     "sass": "^1.52.3",
