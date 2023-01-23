@@ -12,7 +12,7 @@
     "axios": "^1.2.3",
     "core-js": "^3.27.2",
     "css-loader": "^6.7.1",
-    "epic-spinners": "^1.1.0",
+    "epic-spinners": "^2.0.0",
     "express": "^4.18.2",
     "password-hash": "^1.2.2",
     "register-service-worker": "^1.7.2",
